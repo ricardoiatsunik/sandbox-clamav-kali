@@ -35,8 +35,7 @@ Opções:
 
 ## Boas práticas de segurança
 
-- Mude a senha padrão do Kali.
-- Nunca analise arquivos suspeitos com a máquina conectada à internet.
+- Mude a senha padrão do Kali (deve ser resistente aos padrões de ataque)
 - Utilize snapshots e clones para garantir que qualquer alteração seja revertida.
 - Atualize as definições do ClamAV com `freshclam` enquanto a máquina ainda está online, antes de desconectar.
 
