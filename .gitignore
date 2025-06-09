@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários e backups
+*.swp
+*.bak
+*.tmp
+
+# Ignorar arquivos ocultos do sistema
+.DS_Store
+
+# Ignorar pastas de sistema ou IDE
+.idea/
+.vscode/
